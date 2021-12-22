@@ -1,0 +1,117 @@
+@media (max-width: 768px) {
+  /* Top Slider */
+  #main_banner_head {
+    font-size: 2.5rem;
+  }
+  #main_head_para {
+    font-size: 1rem;
+  }
+  #hello {
+    font-size: 1rem;
+  }
+  /* Quick Acces */
+  #quick_head {
+    font-size: 1.4rem;
+    margin-top: 40px;
+  }
+
+  #main_rectangle {
+    height: unset;
+    margin-bottom: 40px;
+  }
+  #div_first_part {
+    height: unset;
+  }
+  #div_second_part {
+    height: unset;
+  }
+  /* Book Appointment Card */
+  #filled_rectangle {
+    height: unset;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #appointment_btn {
+    height: 2.5em;
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    margin: 1em auto;
+    font-size: 1em;
+  }
+  /* Who We Are */
+  #about_2nd_part_head1 {
+    margin-top: 50px;
+  }
+  #about_2nd_part_head2 {
+    font-size: 2.2rem;
+    margin-top: 1rem;
+  }
+  #about_2nd_part_para {
+    margin: 0.5rem 0;
+    width: 95%;
+  }
+  #direction_brn,
+  #apoinment_about {
+    display: none;
+  }
+  .about_image {
+    height: unset;
+  }
+
+  /* Services */
+  .section_gap_top {
+    padding-top: 120px;
+    padding-bottom: 50px;
+  }
+  #services_head {
+    font-size: 2rem;
+  }
+  #services_para {
+    width: 100%;
+  }
+  .section_gap_top.tabs {
+    margin-top: 40px;
+  }
+  /* Testmonials */
+  #testimonial_head {
+    margin-top: 60px;
+  }
+  #testimonial_para {
+    width: 100%;
+  }
+  #testi_head1 {
+    margin-top: 15%;
+  }
+  #testi_head2 {
+    font-size: 3.5rem;
+  }
+  #main_banner_par {
+    width: 85%;
+  }
+  /* Blogs */
+  #blogs {
+    padding-top: 60px;
+  }
+  #blog_para {
+    width: 100%;
+  }
+  /* Address */
+  #address .col-lg-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #address_head {
+    margin: 0;
+    margin-top: 15%;
+  }
+  #address_para {
+    margin: 0;
+    text-align: center;
+  }
+  #adrs_btn_1 {
+    margin: 10px 0;
+  }
+}
