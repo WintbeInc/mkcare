@@ -1166,10 +1166,12 @@
     </script>
 
     <script>
+      var widtOfScreen = window.innerWidth;
+
       var mySwiper = new Swiper(".swiper-service", {
         spaceBetween: 10,
         direction: "horizontal",
-        slidesPerView: 3,
+        slidesPerView: widtOfScreen > 756 ? 3 : 0.8,
         freeMode: true,
       });
     </script>
