@@ -74,6 +74,11 @@
   .section_gap_top.tabs {
     margin-top: 40px;
   }
+  .swiper-service .card-service-item {
+    width: 80vw;
+    height: auto;
+    padding-bottom: 30px;
+  }
   /* Testmonials */
   #testimonial_head {
     margin-top: 60px;
@@ -96,6 +101,10 @@
   }
   #blog_para {
     width: 100%;
+  }
+  #blog_card {
+    width: 80vw;
+    height: auto;
   }
   /* Address */
   #address .col-lg-6 {
