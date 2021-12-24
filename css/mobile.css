@@ -1,4 +1,4 @@
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   /* Top Slider */
   #main_banner_head {
     font-size: 2.5rem;
@@ -69,7 +69,7 @@
     font-size: 2rem;
   }
   #services_para {
-    width: 100%;
+    width: 80%;
   }
   .section_gap_top.tabs {
     margin-top: 40px;
@@ -84,7 +84,7 @@
     margin-top: 60px;
   }
   #testimonial_para {
-    width: 100%;
+    width: 80%;
   }
   #testi_head1 {
     margin-top: 15%;
@@ -100,7 +100,7 @@
     padding-top: 60px;
   }
   #blog_para {
-    width: 100%;
+    width: 80%;
   }
   #blog_card {
     width: 80vw;
@@ -110,17 +110,18 @@
   #address .col-lg-6 {
     display: flex;
     flex-direction: column;
-    align-items: center;
+
   }
   #address_head {
     margin: 0;
     margin-top: 15%;
+    margin-left:10%;
   }
   #address_para {
-    margin: 0;
-    text-align: center;
+            margin-left:10%;
+
   }
   #adrs_btn_1 {
-    margin: 10px 0;
+    margin-left:10%;
   }
 }
