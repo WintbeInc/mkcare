@@ -504,6 +504,7 @@ h5
     font-family: "poppins";
     font-size:1.15rem;
     margin-left:30px;
+    margin-bottom:30px;
 
 	}
 
@@ -554,6 +555,10 @@ h5
     font-weight:bold;
 
 
+}
+#quick_links{
+padding-left:100px;
+padding-right:100px;
 }
 
 #main_rectangle{
@@ -678,6 +683,7 @@ color:#000;
     font-size:1rem;
     margin-top:30px;
     width:75%;
+    margin-bottom:50px;
 }
 
 
@@ -1110,12 +1116,12 @@ font-weight:bold;
 margin-top:20px;
 
 }
-#main_banner_par{
+#testiminail_par{
 color:#fff;
 font-size:1.15rem;
 font-family: "poppins";
-margin-top:10px;
-
+margin-top:20px;
+margin-bottom:20px;
 width:50%;
 }
 
