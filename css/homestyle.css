@@ -5170,7 +5170,7 @@ color:#fff;
                 font-size:20px;
                 background:none;
                 float: left;
-                margin-left:50px;
+                margin-left:20px;
                 font-weight:bold;
                 margin-top:20px;
 
@@ -5478,7 +5478,7 @@ color:#fff;
 
     font-family: "poppins";
     font-size:3.5rem;
-    margin-left:30px;
+    margin-left:20px;
     font-weight:bold
 	}
 	#main_head_para{
@@ -5486,7 +5486,7 @@ color:#fff;
 
     font-family: "poppins";
     font-size:1.15rem;
-    margin-left:30px;
+    margin-left:20px;
     margin-bottom:20px;
 
 	}
@@ -5500,7 +5500,7 @@ color:#fff;
       background:#185D8E;
       border: #185D8E;
       border-radius: 5px;
-      margin-left:30px;
+    margin-left:20px;
       transition: all 0.2s cubic-bezier(.4,0,.2,1);
       padding-left:20px;
       padding-right:20px;
