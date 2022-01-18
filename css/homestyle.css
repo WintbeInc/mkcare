@@ -5827,8 +5827,8 @@ margin-left:30px;
 	background: #002333;
 	text-align: center;
 	overflow: hidden;
-	font-size:1.2rem;
-	font-weight:bold;
+	font-size:0.9rem;
+	font-weight:300;
 }
 
 .tabs > span i,
@@ -6041,7 +6041,7 @@ margin-left:20px;
             font-size:2.2rem;
 
             font-weight:bold;
-            margin-top:100px;
+
 
 
 
